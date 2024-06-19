@@ -1,3 +1,5 @@
+#![feature(restricted_std)]
+
 //! [Object Identifiers] are a standard of the [ITU] used to reference objects, things, and
 //! concepts in a globally unique way. This crate provides for data structures and methods
 //! to build, parse, and format OIDs.
